@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 95%;
+  margin: auto;
+}
+
+.containerLogo {
+  display: flex;
+  width: 6%;
+  justify-content: space-between;
+}
+
+.logo {
+}
+
+.name {
+  display: block;
+  margin-left: 30px;
+  font-size: 20px;
+}
+
+.search {
+  width: 40%;
+}
+
+.avatar {
+}
